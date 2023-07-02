@@ -104,7 +104,7 @@ CSS Grid. Daniel Alejandro Acuña Bulla
   </main>
   
   <footer>
-    <p>&copy; 2023 - Nombre de la empresa</p>
+    <p>&copy; 2023 - UNAD 2023 DANIEL ACUÑA BULLA</p>
     <p>Última fecha de actualización: 2 de julio de 2023</p>
   </footer>
 </body>
