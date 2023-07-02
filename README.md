@@ -1,5 +1,8 @@
 # pagina-web-unad-2023
 CSS Grid. Daniel Alejandro Acuña Bulla 
+## CSS Grid - Mockup
+
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -88,11 +91,11 @@ CSS Grid. Daniel Alejandro Acuña Bulla
       </ul>
       
       <h3>¿Cómo se utiliza CSS Grid?</h3>
-      <p>Para utilizar CSS Grid, debes definir un contenedor como un elemento de cuadrícula y luego agregar elementos secundarios dentro de ese contenedor. Puedes establecer propiedades como <code>grid-template-rows</code> y <code>grid-template-columns</code> para definir la estructura de la cuadrícula.</p>
+      <p>Para utilizar CSS Grid, debes definir un contenedor como un elemento de cuadrícula y luego agregar elementos secundarios dentro de ese contenedor. Puedes establecer propiedades como `grid-template-rows` y `grid-template-columns` para definir la estructura de la cuadrícula.</p>
       
-      <p>A continuación, puedes usar propiedades como <code>grid-row</code>, <code>grid-column</code>, <code>grid-area</code> para posicionar y ajustar el tamaño de los elementos secundarios dentro de la cuadrícula.</p>
+      <p>A continuación, puedes usar propiedades como `grid-row`, `grid-column`, `grid-area` para posicionar y ajustar el tamaño de los elementos secundarios dentro de la cuadrícula.</p>
       
-      <p>Con CSS Grid, también puedes utilizar funciones como <code>repeat()</code> y <code>fr</code> (fracciones) para crear diseños flexibles y adaptativos.</p>
+      <p>Con CSS Grid, también puedes utilizar funciones como `repeat()` y `fr` (fracciones) para crear diseños flexibles y adaptativos.</p>
       
       <p>En resumen, CSS Grid es una herramienta poderosa para el diseño de páginas web, que ofrece un control preciso sobre la estructura y el diseño de una cuadrícula bidimensional.</p>
     </section>
@@ -104,7 +107,7 @@ CSS Grid. Daniel Alejandro Acuña Bulla
   </main>
   
   <footer>
-    <p>&copy; 2023 - UNAD 2023 DANIEL ACUÑA BULLA</p>
+    <p>&copy; 2023 - Nombre de la empresa</p>
     <p>Última fecha de actualización: 2 de julio de 2023</p>
   </footer>
 </body>
